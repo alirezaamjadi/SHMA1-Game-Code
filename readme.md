@@ -1,3 +1,7 @@
+![gamec](https://github.com/user-attachments/assets/e30486d8-d1b4-47af-9c57-a0daaddd857b)
+
+
+
 # 🎰 شانس‌متر امجدی (SHMA1)
 > نسخه ۱.۰
 
