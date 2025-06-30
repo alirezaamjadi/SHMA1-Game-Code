@@ -162,7 +162,7 @@ def test_your_day():
     f"👨  Salam Bar To  {first_name} {last_name}\n"
     f"⚡  Shoma Dar Roz {day} Dar Mah {month} To Sal {year}.\n"
     f"💎  Dar Entzar To Hast {fate}.\n"
-    f"✨  Mofag Bashe\n"
+    f"✨  Movafag Bashe:)\n"
     f"🧿  Alireza Hamishe Dost Dar Shoma."
 )
 
