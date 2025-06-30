@@ -1,3 +1,6 @@
+![ChatGPT Image Jun 29, 2025, 01_56_00 PM](https://github.com/user-attachments/assets/587a3098-2f93-49e5-bf35-0c7154ff6b9a)
+
+
 📁 فایل بازی: SHMA1
 
 🔐 رمز فایل: ` SHMA1` 
